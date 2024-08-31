@@ -1,6 +1,6 @@
 ﻿//This project is a simple console application written in C# designed to calculate and estimate the cost of a carpet
 //cleaning service. The program calculates the total cost, 
-//including tax, based on the number of small and large carpets a customer wants to be cleaned.
+//including tax, based on the number of small and large carpets a customer wants to be cleaned
 
 
 namespace first_project
